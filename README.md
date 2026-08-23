@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0412-fizz-buzz) |
+| [1137-n-th-tribonacci-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
