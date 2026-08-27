@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
