@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
