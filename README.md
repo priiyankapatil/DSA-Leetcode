@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
