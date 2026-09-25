@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0412-fizz-buzz) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/priiyankapatil/DSA-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
